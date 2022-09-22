@@ -1,3 +1,5 @@
+// Default generated code by React to launch/render the application
+
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 
