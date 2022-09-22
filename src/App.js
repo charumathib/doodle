@@ -6,7 +6,7 @@ import { useState } from "react";
 export default function App() {
   // Maintain 3 separate states to store what the user's availability is:
   // one for each of the 3 hardcoded proposed dates/times
-  //  const [state1, setState1] = useState(0);
+  const [state1, setState1] = useState(0);
   const [state2, setState2] = useState(0);
   const [state3, setState3] = useState(0);
   // Maintain the window size in the app state
